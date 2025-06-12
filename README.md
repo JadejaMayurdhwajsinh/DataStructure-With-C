@@ -28,3 +28,20 @@ This repository contains a comprehensive collection of Data Structures programs 
    ```bash
    gcc filename.c -o output
    ./output
+
+
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork this repository, make your changes, and open a pull request.
+
+If you'd like to fix a bug, improve code, or add examples—go for it! Just follow good coding practices.
+
+---
+
+## 📧 Contact
+
+**Jadeja Mayurdhwajsinh**  
+📧 jadejamayurdhwajsinh6@gmail.com  
+🌐 [GitHub Profile](https://github.com/JadejaMayurdhwajsinh)
+
